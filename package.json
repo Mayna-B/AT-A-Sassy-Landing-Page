@@ -1,0 +1,22 @@
+{
+  "name": "at-a-sassy-landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayna Bradshaw",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayna-B/AT-A-Sassy-Landing-Page.git"
+  },
+  "keywords": [
+    "landing"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mayna-B/AT-A-Sassy-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/Mayna-B/AT-A-Sassy-Landing-Page#readme",
+  "description": ""
+}
